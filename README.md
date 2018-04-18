@@ -10,3 +10,6 @@ ENTER THE SIZE OF THE WATOR ? (EG: 100,120,150,200):
 <br>
 It will build, run the simulator <br>
  - and create the Doxygen documentation to the wator-simulator project as well.
+ 
+ ![wator](https://user-images.githubusercontent.com/17005432/38930428-c159e0d4-4307-11e8-94ba-cc7b954360a8.png)
+
